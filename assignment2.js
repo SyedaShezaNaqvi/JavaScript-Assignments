@@ -107,11 +107,4 @@
 //     let obj = localStorage.getItem(key)
 //     return JSON.parse(obj)
 // }
-
-// let colors = {
-//     col1 : "blue",
-//     col2 : "green",
-//     col3 : "purple",
-//     col4 : "red"
-// }
 // saveProperty("col3","purple")
